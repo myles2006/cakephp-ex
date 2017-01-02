@@ -216,7 +216,7 @@ pre {
 <!-- This Script is from www.htmlfreecodes.com, Provided by: Mahmood Bina -->
 <script type='text/javascript' src='http://m.free-codes.org/gh.php?id=2001'></script>
 <CENTER>
-<a href=”http://lss.sau16.org”>Lincoln Street School webpage</a>
+
 
 
   <SCRIPT Language="JavaScript">
