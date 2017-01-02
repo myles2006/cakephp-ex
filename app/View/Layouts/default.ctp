@@ -385,6 +385,12 @@ var dCount = 0
 </script>
 Then, in the body of your document, add the following where you want the calendar to show up:
 <script type="text/javascript">writeCalendar()</script>
+<p>
+<script type="text/javascript">
+document.write('Lincoln Street website!!'.link('http://lss.sau16.org/'));
+</script>
+</p>
+
 
 
   <SCRIPT Language="JavaScript">
