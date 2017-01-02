@@ -216,6 +216,9 @@ pre {
 <!-- This Script is from www.htmlfreecodes.com, Provided by: Mahmood Bina -->
 <script type='text/javascript' src='http://m.free-codes.org/gh.php?id=2001'></script>
 <CENTER>
+<br/>
+<script type="text/javascript" src="http://counter3.01counter.com/private/counter.js?c=a300444185d433c99cc19a3a1344f7c3"></script>
+<noscript><a href="http://www.freecounterstat.com" title="free hit counters"><img src="http://counter3.01counter.com/private/freecounterstat.php?c=a300444185d433c99cc19a3a1344f7c3" border="0" title="free hit counters" alt="free hit counters"></a>
 
 <FORM name="Keypad" action="">
 <TABLE>
