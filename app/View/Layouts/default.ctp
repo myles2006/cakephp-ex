@@ -185,7 +185,7 @@ code {
   background-color: yellow;
   border: 1px solid #ccc;
   padding: 1px 5px;
-  color: #888;
+  color: #FFFF00;
 }
 pre {
   display: block;
@@ -247,7 +247,7 @@ function changeBg(id){
 		eval(id).style.backgroundColor = "yellow"
 	}
 	else{
-		eval(id).style.backgroundColor = "#ffffff"
+		eval(id).style.backgroundColor = "#87CEEB"
 	}
 }
 function writeCalendar(){
@@ -373,7 +373,7 @@ var dCount = 0
 				eval("sp"+ii).className = "c1"
 			}
 			if ((arrN[ii]==dd)&&(mm==currM)&&(yyyy==currY)){
-				eval("sp"+ii).style.backgroundColor="#90EE90"
+				eval("sp"+ii).style.backgroundColor="#87CEEB"
 			}
 		}
 	dCount += 1
