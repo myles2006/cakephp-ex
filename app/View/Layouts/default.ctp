@@ -42,7 +42,7 @@ section{
   display: block;
 }
 body {
-  color: #404040;
+  color: #87CEEB;
   font-family: "Helvetica Neue",Helvetica,"Liberation Sans",Arial,sans-serif;
   font-size: 14px;
   line-height: 1.4;
@@ -134,7 +134,7 @@ a {
   text-decoration: none;
 }
 a:hover {
-  color: #EA0011;
+  color: #87CEEB;
   text-decoration: underline;
 }
 hgroup {
@@ -182,7 +182,7 @@ html {
   height: 100%;
 }
 code {
-  background-color: white;
+  background-color: yellow;
   border: 1px solid #ccc;
   padding: 1px 5px;
   color: #888;
