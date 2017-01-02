@@ -42,7 +42,7 @@ section{
   display: block;
 }
 body {
-  background-image: url("http://backgroundlabs.com/wp-content/uploads/2014/10/yellow-triangles-background.jpg");;
+  color :background-image: url("http://backgroundlabs.com/wp-content/uploads/2014/10/yellow-triangles-background.jpg");;
   font-family: "Helvetica Neue",Helvetica,"Liberation Sans",Arial,sans-serif;
   font-size: 14px;
   line-height: 1.4;
