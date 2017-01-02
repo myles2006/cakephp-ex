@@ -210,8 +210,8 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>HEY!! I MADE A CHANGE!! HELLO!</h1>
-            <h2>LINCOLN STREET SCHOOL IS AWESOME!<h2>
+            <h1>HELLO WORLD</h1>
+            <h2>THIS APP WAS CODED WITH JAVASCRIPT AND HTML<h2>
             <h1>5TH GRADE ROCKS!<h1>
 <!-- This Script is from www.htmlfreecodes.com, Provided by: Mahmood Bina -->
 <script type='text/javascript' src='http://m.free-codes.org/gh.php?id=2001'></script>
